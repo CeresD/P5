@@ -1,0 +1,122 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/DiGraph.cpp
+iostream
+-
+DiGraph.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/DiGraph.h
+fstream
+-
+tokenizer.hpp
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/tokenizer.hpp
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/DiGraph.h
+Node.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Node.h
+string
+-
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Edge.cpp
+Edge.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Edge.h
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Edge.h
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/GraphVisualizer.cpp
+GraphVisualizer.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/GraphVisualizer.h
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/GraphVisualizer.h
+DiGraph.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/DiGraph.h
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/List.hpp
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Navigator.hpp
+DiGraph.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/DiGraph.h
+PriorityQueue.hpp
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/PriorityQueue.hpp
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Node.cpp
+Node.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Node.h
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Node.h
+string
+-
+Edge.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Edge.h
+List.hpp
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/List.hpp
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/PriorityQueue.hpp
+string
+-
+PriorityQueueEntry.hpp
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/PriorityQueueEntry.hpp
+iostream
+-
+PriorityQueue.hpp
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/PriorityQueue.hpp
+QueueException.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/QueueException.h
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/PriorityQueueEntry.hpp
+string
+-
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/QueueException.cpp
+iostream
+-
+QueueException.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/QueueException.h
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/QueueException.h
+string
+-
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/SFMLGraphVisualizer.cpp
+iostream
+-
+SFMLGraphVisualizer.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/SFMLGraphVisualizer.h
+cmath
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/cmath
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/SFMLGraphVisualizer.h
+SFML/Graphics.hpp
+-
+sstream
+-
+GraphVisualizer.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/GraphVisualizer.h
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/main.cpp
+SFMLGraphVisualizer.h
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/SFMLGraphVisualizer.h
+iostream
+-
+Navigator.hpp
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/Navigator.hpp
+thread
+-
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/tokenizer.cpp
+tokenizer.hpp
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/tokenizer.hpp
+algorithm
+-
+
+/home/phorphable/Dropbox/HSNR/SEMESTER_02/OOA/P/03 04 05/project/tokenizer.hpp
+string
+-
+vector
+-
+

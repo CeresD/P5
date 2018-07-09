@@ -1,0 +1,16 @@
+# Alle Knoten
+Aachen 202 567
+Berlin 729 611
+Koeln 459 425
+Essen 791 275
+Bonn 433 201
+Krefeld 237 359
+# Alle Kanten
+Aachen Berlin 7.000000
+Aachen Krefeld 7.000000
+Berlin Essen 40.000000
+Berlin Koeln 3.000000
+Koeln Aachen 9.000000
+Koeln Essen 31.000000
+Bonn Essen 8.000000
+Krefeld Bonn 1.000000

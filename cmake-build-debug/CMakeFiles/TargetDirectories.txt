@@ -1,0 +1,3 @@
+/home/ceres/CLionProjects/Praktikum_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ceres/CLionProjects/Praktikum_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ceres/CLionProjects/Praktikum_5/cmake-build-debug/CMakeFiles/project.dir
